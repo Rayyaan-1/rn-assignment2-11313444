@@ -1,5 +1,5 @@
 {
-  "name": "firstproject",
+  "name": "rn-assignment2-id-11313444",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "react-native": "0.74.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
-    "expo-cli": "^4.0.17"
+    "@babel/core": "^7.20.0"
   },
   "private": true
 }
